@@ -1,0 +1,9 @@
+1. create bookStoreProject
+2. create backend and frontend folder
+// BACKEND
+3. In backend install package.json(npm init -y), package-lock.json,node_modules(npm i nodemon, express)
+4. In package.json add "type": "module"; and in scripts "start": "node index.js", "dev": "nodemon index.js"
+5. create index.js
+
+//database
+1. mongoDB atlas username "bharatkumar", password "Bharat311298".
